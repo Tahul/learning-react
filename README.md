@@ -26,7 +26,6 @@ Here will be logged all the content I already consulted.
 
 - [Getting Started - reactjs.org](https://reactjs.org/docs/getting-started.html)
 - [Introducing JSX - reactjs.org](https://reactjs.org/docs/introducing-jsx.html)
-- 
 - [awesome-cheatsheets (React.js) - LeCoupa](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
 - [React : Chapitre 1 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
 - [React : Chapitre 2 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
