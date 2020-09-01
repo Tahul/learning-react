@@ -11,11 +11,23 @@ I will so be logging my learning path on this repository, with examples coming f
 
 If you pass here and you know any resource that could be useful to mind, don't mind sharing it with me on my [Twitter](https://twitter.com/yaeeelglx).
 
+📝 Notes
+---
+
+This is a list of the notes I've been taking, it will mainly be reminders & copy pasted content from other learning sources.
+
+- [create-react-app readme](./notes/create-react-app-readme.md)
+- [JSX Notes](./notes/jsx.md)
+
 📺 Content viewed
 ---
 
 Here will be logged all the content I already consulted.
 
+- [Getting Started - reactjs.org](https://reactjs.org/docs/getting-started.html)
+- [Introducing JSX - reactjs.org](https://reactjs.org/docs/introducing-jsx.html)
+- 
+- [awesome-cheatsheets (React.js) - LeCoupa](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
 - [React : Chapitre 1 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
 - [React : Chapitre 2 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
 - [React : Chapitre 3 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
@@ -36,3 +48,12 @@ I cannot take a look to everything at once, so I will be logging this content he
 
 - [Custom Hooks in React: The Ultimate UI Abstraction Layer - Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)
 - [AHA Programming - Kent C. Dodds](https://kentcdodds.com/blog/aha-programming)
+
+
+
+🗣 Disclaimer
+---
+
+I'm **french 🇫🇷**, so please, note that content you visit from this repository can be in french.
+
+Also, I've been using [Vue](https://vuejs.org/) a lot, so if you're starting with JavaScript I won't recommend following my path through [React](https://reactjs.org/).
