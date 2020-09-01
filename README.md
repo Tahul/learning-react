@@ -1,68 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+⚛ Learning React coming from Vue
+---
 
-## Available Scripts
+Well, as I'm currently (**01/09/2020**) searching for a remote job, I just noticed that most of them are React-based, at least where I live.
 
-In the project directory, you can run:
+As I already know how this framework works but never digged deep into it, I decided to dedicate my time to learn it for the upcoming weeks.
 
-### `yarn start`
+My frontend past has mainly been made of Vue and Nuxt, used for personal projects as much as company-related ones.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I will so be logging my learning path on this repository, with examples coming from workshops and courses I can find on internet and useful resources for you to read or watch.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+If you pass here and you know any resource that could be useful to mind, don't mind sharing it with me on my [Twitter](https://twitter.com/yaeeelglx).
 
-### `yarn test`
+📺 Content viewed
+---
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Here will be logged all the content I already consulted.
 
-### `yarn build`
+- [React : Chapitre 1 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chapitre 2 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chapitre 3 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chapitre 4 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chapitre 5 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chapitre 6 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chapitre 7 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chapitre 8 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chapitre 9 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chapitre 10 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+👁 Recommended content
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+As I already know a lot of friends using React daily, they recommended me a lot of content.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I cannot take a look to everything at once, so I will be logging this content here, before it switches to **📺 Content viewed**.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- [Custom Hooks in React: The Ultimate UI Abstraction Layer - Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)
+- [AHA Programming - Kent C. Dodds](https://kentcdodds.com/blog/aha-programming)
