@@ -48,6 +48,12 @@ export default class Incrementor extends React.Component {
         }
     }
 
+    reset() {
+        this.setState({
+            n: this.props.start
+        })
+    }
+
     render() {
         return <div>
             Le nombre actuel est: { this.state.n }
@@ -55,6 +61,12 @@ export default class Incrementor extends React.Component {
             <p>
                 <button onClick={this.toggle.bind(this)}>
                     { this.state.timer ? "Pause" : "Play" }
+                </button>
+            </p>
+
+            <p>
+                <button onClick={this.reset.bind(this)}>
+                    Reset the timer
                 </button>
             </p>
         </div>
