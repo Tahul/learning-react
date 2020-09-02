@@ -55,20 +55,22 @@ export default class Incrementor extends React.Component {
     }
 
     render() {
-        return <div>
-            Le nombre actuel est: { this.state.n }
+        return (
+            <div>
+                Le nombre actuel est: { this.state.n }
 
-            <p>
-                <button onClick={this.toggle.bind(this)}>
-                    { this.state.timer ? "Pause" : "Play" }
-                </button>
-            </p>
+                <p>
+                    <button onClick={this.toggle.bind(this)}>
+                        { this.state.timer ? "Pause" : "Play" }
+                    </button>
+                </p>
 
-            <p>
-                <button onClick={this.reset.bind(this)}>
-                    Reset the timer
-                </button>
-            </p>
-        </div>
+                <p>
+                    <button onClick={this.reset.bind(this)}>
+                        Reset the timer
+                    </button>
+                </p>
+            </div>
+        );
     }
 }

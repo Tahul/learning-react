@@ -39,7 +39,10 @@ Here will be logged all the content I already consulted.
 - [React : Chapitre 10 - Grafikart](https://www.youtube.com/watch?v=cJ5IUmGGxdY)
 - [Error boundaries - reactjs.org](https://reactjs.org/docs/error-boundaries.html)
 - [React without ES6 - reactjs.org](https://reactjs.org/docs/react-without-es6.html)
-- [React Testing Library - testing-library.com](https://testing-library.com/docs/react-testing-library)
+- [Testing Library - testing-library.com](https://testing-library.com/docs/react-testing-library)
+- [DOM elements - reactjs.org](https://reactjs.org/docs/dom-elements.html)
+- [Forms - reactjs.org](https://reactjs.org/docs/forms.html)
+- [Uncontrolled components - reactjs.org](https://reactjs.org/docs/uncontrolled-components.html)
 
 👁 Recommended content
 ---

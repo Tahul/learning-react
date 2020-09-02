@@ -41,11 +41,19 @@ Both quotes and curly braces works for specifying attributes in JSX, but can't b
 
 Since JSX is closer to JavaScript than to <template> or HTML, the usage of camelCase is highly recommended concerning attributes.
 
-"class" becomes className.
+Also, 
 
-"tabindex" becomes tabIndex.
+"class" becomes "className".
+
+"tabindex" becomes "tabIndex".
+
+"for" becomes "htmlFor".
+
+"readonly" becomes "readOnly".
 
 This avoids conflicts with JavaScript keywords such as "class".
+
+A complete list about this particular point is available on the [React DOM elements](https://reactjs.org/docs/dom-elements.html) page.
 
 ~~~~javascript
 const element = <img src={user.avatarUrl} />;
@@ -76,6 +84,50 @@ const element = React.createElement(
 These are identical.
 
 JSX is compiled down to React.createElement() calls.
+
+~~~~javascript
+  function render() {
+    return (
+      <form onSubmit={this.handleSubmit}>
+        <label>
+          <textarea value={this.state.value} onChange={this.handleChange} />
+        </label>
+        <input type="submit" value="Send" />
+      </form>
+    );
+  }
+~~~~
+
+In React, a textarea uses a value attribute instead of containing its value like in HTML.
+
+A form using a textarea can be written very similarly to a form that uses a single-line input.
+
+~~~~javascript
+  function render() {
+    return (
+      <form onSubmit={this.handleSubmit}>
+        <label>
+          Pick your favorite flavor:
+          <select value={this.state.value} onChange={this.handleChange}>
+            <option value="grapefruit">Grapefruit</option>
+            <option value="lime">Lime</option>
+            <option value="coconut">Coconut</option>
+            <option value="mango">Mango</option>
+          </select>
+        </label>
+        <input type="submit" value="Submit" />
+      </form>
+    );
+  }
+~~~~
+
+React, instead of using this selected attribute, uses a value attribute on the root select tag.
+
+This is more convenient in a controlled component because you only need to update it in one place.
+
+This and the textarea feature has been implementend so both of select and textarea can be [React controlled components](https://reactjs.org/docs/forms.html#controlled-components) easily.
+
+The distinction between controlled and [uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html) must be known in order to achieve implementing forms with JSX correctly.
 
 Quotes
 ---
