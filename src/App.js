@@ -8,7 +8,7 @@ function App() {
     <div className="App">
         { /* <ManualIncrementor start={0} /> */ }
 
-        <TimeIncrementor start={0} />
+        { /* <TimeIncrementor start={0} /> */ }
     </div>
   );
 }

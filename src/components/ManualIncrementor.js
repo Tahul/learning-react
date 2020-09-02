@@ -14,9 +14,11 @@ export default class Incrementor extends React.Component {
     }
 
     componentDidMount() {
+
     }
 
     componentWillUnmount() {
+
     }
 
     increment() {
