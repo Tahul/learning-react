@@ -38,6 +38,7 @@ Here will be logged all the content I already consulted.
 - [React : Chapitre 9 - Grafikart](https://www.youtube.com/watch?v=bapLrqtXEkA)
 - [React : Chapitre 10 - Grafikart](https://www.youtube.com/watch?v=cJ5IUmGGxdY)
 - [Error boundaries - reactjs.org](https://reactjs.org/docs/error-boundaries.html)
+- [React without ES6 - reactjs.org](https://reactjs.org/docs/react-without-es6.html)
 
 👁 Recommended content
 ---
