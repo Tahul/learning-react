@@ -46,6 +46,8 @@ Here will be logged all the content I already consulted.
 - [Tutoriel Redux - Grafikart](https://www.youtube.com/watch?v=QLiox52HG4U)
 - [Getting Started - redux.js.org](https://redux.js.org/introduction/getting-started)
 - [Redux essentials, part 1 - redux.js.org](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
+- [Usage with Redux Thunk - redux.js.org](https://redux.js.org/recipes/usage-with-typescript#usage-with-redux-thunk)
+- [Redux Saga - redux-saga.js.org](https://redux-saga.js.org/)
 
 👁 Recommended content
 ---
