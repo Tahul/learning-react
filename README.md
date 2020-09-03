@@ -43,6 +43,9 @@ Here will be logged all the content I already consulted.
 - [DOM elements - reactjs.org](https://reactjs.org/docs/dom-elements.html)
 - [Forms - reactjs.org](https://reactjs.org/docs/forms.html)
 - [Uncontrolled components - reactjs.org](https://reactjs.org/docs/uncontrolled-components.html)
+- [Tutoriel Redux - Grafikart](https://www.youtube.com/watch?v=QLiox52HG4U)
+- [Getting Started - redux.js.org](https://redux.js.org/introduction/getting-started)
+- [Redux essentials, part 1 - redux.js.org](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 
 👁 Recommended content
 ---
