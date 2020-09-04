@@ -48,6 +48,7 @@ Here will be logged all the content I already consulted.
 - [Redux essentials, part 1 - redux.js.org](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
 - [Usage with Redux Thunk - redux.js.org](https://redux.js.org/recipes/usage-with-typescript#usage-with-redux-thunk)
 - [Redux Saga - redux-saga.js.org](https://redux-saga.js.org/)
+- [React Context VS Redux - Academind](https://www.youtube.com/watch?v=OvM4hIxrqAw)
 
 👁 Recommended content
 ---
