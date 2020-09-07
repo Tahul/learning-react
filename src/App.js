@@ -1,24 +1,14 @@
 // Core imports:
-import React from 'react';
+import React from 'react'
 // Styling:
-import './App.css';
-import FormComponent from "./components/FormComponent";
+import './App.css'
 
-// Example components:
-// import TimeIncrementor from "./components/TimeIncrementor";
-// import ManualIncrementor from "./components/ManualIncrementor";
+// Steps summaries components:
+import Discovery from './steps/01-discovery' // Step 01 - Discovery
 
-
+// Main app display
 function App() {
-  return (
-    <div className="App">
-        { /* <ManualIncrementor start={0} /> */ }
-
-        { /* <TimeIncrementor start={0} /> */ }
-
-        <FormComponent />
-    </div>
-  );
+  return <div className="App"></div>
 }
 
-export default App;
+export default App

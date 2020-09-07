@@ -53,6 +53,7 @@ Here will be logged all the content I already consulted.
 - [Basic Example - formik.org](https://formik.org/docs/examples/basic)
 - [Get Started - react-hook-form.com](https://react-hook-form.com/get-started)
 - [Examples - react-hook-form.com](https://github.com/react-hook-form/react-hook-form/tree/master/examples)
+- [Lifting State Up - reactjs.org](https://reactjs.org/docs/lifting-state-up.html)
 
 👁 Recommended content
 ---
@@ -64,7 +65,6 @@ I cannot take a look to everything at once, so I will be logging this content he
 - [Custom Hooks in React: The Ultimate UI Abstraction Layer - Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)
 - [AHA Programming - Kent C. Dodds](https://kentcdodds.com/blog/aha-programming)
 - [Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)
-
 
 🗣 Disclaimer
 ---
