@@ -49,6 +49,10 @@ Here will be logged all the content I already consulted.
 - [Usage with Redux Thunk - redux.js.org](https://redux.js.org/recipes/usage-with-typescript#usage-with-redux-thunk)
 - [Redux Saga - redux-saga.js.org](https://redux-saga.js.org/)
 - [React Context VS Redux - Academind](https://www.youtube.com/watch?v=OvM4hIxrqAw)
+- [Overview - formik.org](https://formik.org/docs/overview)
+- [Basic Example - formik.org](https://formik.org/docs/examples/basic)
+- [Get Started - react-hook-form.com](https://react-hook-form.com/get-started)
+- [Examples - react-hook-form.com](https://github.com/react-hook-form/react-hook-form/tree/master/examples)
 
 👁 Recommended content
 ---
@@ -59,7 +63,7 @@ I cannot take a look to everything at once, so I will be logging this content he
 
 - [Custom Hooks in React: The Ultimate UI Abstraction Layer - Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)
 - [AHA Programming - Kent C. Dodds](https://kentcdodds.com/blog/aha-programming)
-
+- [Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)
 
 
 🗣 Disclaimer
