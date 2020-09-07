@@ -54,6 +54,10 @@ Here will be logged all the content I already consulted.
 - [Get Started - react-hook-form.com](https://react-hook-form.com/get-started)
 - [Examples - react-hook-form.com](https://github.com/react-hook-form/react-hook-form/tree/master/examples)
 - [Lifting State Up - reactjs.org](https://reactjs.org/docs/lifting-state-up.html)
+- [Whats the reason to always use .jsx instead of .js - github.com @ airbnb/javascript](https://github.com/airbnb/javascript/issues/1235)
+- [Difference between .js and .jsx files in React? - Joseph Khan](https://josephkhan.me/difference-between-js-and-jsx-files-react)
+- [Tailwind + create-react-app - Dave Ceddia](https://daveceddia.com/tailwind-create-react-app)
+- [Setting up Tailwind with create-react-app - Hagnerd](https://dev.to/hagnerd/setting-up-tailwind-with-create-react-app-4jd)
 
 👁 Recommended content
 ---
@@ -65,6 +69,7 @@ I cannot take a look to everything at once, so I will be logging this content he
 - [Custom Hooks in React: The Ultimate UI Abstraction Layer - Tanner Linsley](https://www.youtube.com/watch?v=J-g9ZJha8FE)
 - [AHA Programming - Kent C. Dodds](https://kentcdodds.com/blog/aha-programming)
 - [Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)
+- [Rethinking Design Practices — Mark Dalgleish](https://www.youtube.com/watch?v=xxbc3wAztl0)
 
 🗣 Disclaimer
 ---

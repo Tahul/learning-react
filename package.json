@@ -6,12 +6,23 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "chokidar-cli": "^2.1.0",
     "husky": "^4.3.0",
     "lint-staged": "^10.3.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-import": "^12.0.1",
     "prettier": "^2.1.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "autoprefixer": "^9.8.6",
+    "postcss-cli": "^7.1.2",
+    "postcss-custom-properties": "^9.1.1",
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.8.4"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
@@ -19,6 +30,9 @@
     ]
   },
   "scripts": {
+    "build:styles": "postcss src/css/index.css -o src/css/styles.css",
+    "prebuild": "NODE_ENV=production yarn build:styles",
+    "prestart": "yarn build:styles",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
