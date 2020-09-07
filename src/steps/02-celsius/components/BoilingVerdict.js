@@ -6,8 +6,8 @@ export default ({ celsius }) => {
       <div className="text-green-400">
         <span role="img" aria-labelledby="hot">
           🥵
-        </span>{' '}
-        L'eau bout
+        </span>
+        &nbsp; L'eau bout
       </div>
     )
   }
@@ -16,8 +16,8 @@ export default ({ celsius }) => {
     <div className="text-orange-400">
       <span role="img" aria-labelledby="water">
         💧
-      </span>{' '}
-      L'eau ne bout pas
+      </span>
+      &nbsp; L'eau ne bout pas
     </div>
   )
 }

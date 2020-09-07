@@ -1,10 +1,10 @@
 import React from 'react'
-import BoilingVerdict from './components/BoilingVerdict'
+import Calculator from './components/Calculator'
 
 export default () => {
   return (
     <div class="container">
-      <BoilingVerdict celsius={100} />
+      <Calculator />
     </div>
   )
 }
