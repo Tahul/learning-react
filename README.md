@@ -58,6 +58,10 @@ Here will be logged all the content I already consulted.
 - [Difference between .js and .jsx files in React? - Joseph Khan](https://josephkhan.me/difference-between-js-and-jsx-files-react)
 - [Tailwind + create-react-app - Dave Ceddia](https://daveceddia.com/tailwind-create-react-app)
 - [Setting up Tailwind with create-react-app - Hagnerd](https://dev.to/hagnerd/setting-up-tailwind-with-create-react-app-4jd)
+- [Zustand - A small, fast and scaleable bearbones state-management solution - github.com @ react-spring/zustand](https://github.com/react-spring/zustand)
+- [hyperscript - Create HyperText with JavaScript, on client or server. - github.com @ hyperhype/hyperscript](https://github.com/hyperhype/hyperscript)
+- [hyperscript-helpers - github.com @ ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers)
+- [Recoil - Recoil is an experimental set of utilities for state management with React. - github.com @ facebookexperimental/recoil](https://github.com/facebookexperimental/Recoil)
 
 👁 Recommended content
 ---

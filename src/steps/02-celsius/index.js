@@ -3,7 +3,7 @@ import Calculator from './components/Calculator'
 
 export default () => {
   return (
-    <div class="container">
+    <div className="container">
       <Calculator />
     </div>
   )

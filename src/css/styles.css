@@ -1,3 +1,5 @@
+/* noinspection CssInvalidAtRule */
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -583,6 +585,8 @@ video {
   height: auto;
 }
 
+/* noinspection CssInvalidAtRule */
+
 .container {
   width: 100%;
 }
@@ -610,6 +614,8 @@ video {
     max-width: 1280px;
   }
 }
+
+/* noinspection CssInvalidAtRule */
 
 .space-y-0 > :not(template) ~ :not(template) {
   --space-y-reverse: 0;

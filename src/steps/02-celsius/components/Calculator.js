@@ -1,20 +1,21 @@
 import React from 'react'
 import BoilingVerdict from './BoilingVerdict'
+import TemperatureInput from './TemperatureInput'
 
 export default class Calculator extends React.Component {
   constructor(props) {
     super(props)
 
     this.state = {
-      temperature: 100,
+      temperature: 20,
     }
 
-    this.handleChange = this.handleChange.bind(this)
+    this.handleTemperatureChange = this.handleTemperatureChange.bind(this)
   }
 
-  handleChange(e) {
+  handleTemperatureChange(temperature) {
     this.setState({
-      temperature: e.target.value,
+      temperature,
     })
   }
 
@@ -23,22 +24,17 @@ export default class Calculator extends React.Component {
 
     return (
       <div>
-        <div className="mb-4">
-          <label className="font-bold" htmlFor="celsius">
-            <span role="img" aria-labelledby="hot">
-              🌡
-            </span>
-            &nbsp; Température (en Celsius)
-          </label>
+        <TemperatureInput
+          scale="celsius"
+          temperature={temperature}
+          onTemperatureChange={this.handleTemperatureChange}
+        />
 
-          <input
-            className="block border-2 border-blue-400 rounded-lg px-2 py-1 outline-none focus:outline-none"
-            type="text"
-            id="celsius"
-            value={temperature}
-            onChange={this.handleChange}
-          />
-        </div>
+        <TemperatureInput
+          scale="fahrenheit"
+          temperature={temperature}
+          onTemperatureChange={this.handleTemperatureChange}
+        />
 
         <BoilingVerdict celsius={parseFloat(temperature) || 0} />
       </div>
