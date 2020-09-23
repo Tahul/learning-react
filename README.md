@@ -1,5 +1,4 @@
-⚛ Learning React coming from Vue
----
+# Learning React coming from Vue
 
 Well, as I'm currently (**01/09/2020**) searching for a remote job, I just noticed that most of them are React-based, at least where I live.
 
@@ -11,16 +10,14 @@ I will so be logging my learning path on this repository, with examples coming f
 
 If you pass here and you know any resource that could be useful to mind, don't mind sharing it with me on my [Twitter](https://twitter.com/yaeeelglx).
 
-📝 Notes
----
+## 📝 Notes
 
 This is a list of the notes I've been taking, it will mainly be reminders & copy pasted content from other learning sources.
 
 - [create-react-app readme](./notes/create-react-app-readme.md)
 - [JSX Notes](./notes/jsx.md)
 
-📺 Content viewed
----
+## 📺 Content viewed
 
 Here will be logged all the content I already consulted.
 
@@ -62,9 +59,9 @@ Here will be logged all the content I already consulted.
 - [hyperscript - Create HyperText with JavaScript, on client or server. - github.com @ hyperhype/hyperscript](https://github.com/hyperhype/hyperscript)
 - [hyperscript-helpers - github.com @ ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers)
 - [Recoil - Recoil is an experimental set of utilities for state management with React. - github.com @ facebookexperimental/recoil](https://github.com/facebookexperimental/Recoil)
+- [Setting up your editor - create-react-app.dev](https://create-react-app.dev/docs/setting-up-your-editor/)
 
-👁 Recommended content
----
+## 👁 Recommended content
 
 As I already know a lot of friends using React daily, they recommended me a lot of content.
 
@@ -75,8 +72,7 @@ I cannot take a look to everything at once, so I will be logging this content he
 - [Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)
 - [Rethinking Design Practices — Mark Dalgleish](https://www.youtube.com/watch?v=xxbc3wAztl0)
 
-🗣 Disclaimer
----
+## 🗣 Disclaimer
 
 I'm **french 🇫🇷**, so please, note that content you visit from this repository can be in french.
 
