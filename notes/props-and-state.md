@@ -16,6 +16,10 @@ If you want to update the state, you have to use the [setState](https://reactjs.
 
 setState has to been seen as a chain of enqueued changes to the component state, which will each trigger a render. Each change is not applied immediatly.
 
+Class components used to be necessary to access to the state (and to lifecycle hooks), but isn't necessary anymore since the introductions of hooks.
+
+You can so write function components having a state using hooks which I will talk about in another note.
+
 ## Props
 
 Props are used to pass anything between components.

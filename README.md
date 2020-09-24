@@ -16,6 +16,7 @@ This is a list of the notes I've been taking, it will mainly be reminders & copy
 
 - [create-react-app readme](./notes/create-react-app-readme.md)
 - [JSX Notes](./notes/jsx.md)
+- [Props and state](./notes/props-and-state.md)
 
 ## 📺 Content viewed
 
@@ -62,6 +63,7 @@ Here will be logged all the content I already consulted.
 - [Setting up your editor - create-react-app.dev](https://create-react-app.dev/docs/setting-up-your-editor/)
 - [React Today and Tomorrow and 90% Cleaner React with Hooks - youtube.com @ React Conf](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 - [Thinking in React - reactjs.org](https://reactjs.org/docs/thinking-in-react.html)
+- [Redux Data Flow - redux.js.org](https://redux.js.org/basics/data-flow)
 
 ## 👁 Recommended content
 
