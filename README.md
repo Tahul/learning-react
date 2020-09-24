@@ -64,6 +64,7 @@ Here will be logged all the content I already consulted.
 - [React Today and Tomorrow and 90% Cleaner React with Hooks - youtube.com @ React Conf](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 - [Thinking in React - reactjs.org](https://reactjs.org/docs/thinking-in-react.html)
 - [Redux Data Flow - redux.js.org](https://redux.js.org/basics/data-flow)
+- [React Top-Level API - reactjs.org](https://reactjs.org/docs/react-api.html)
 
 ## 👁 Recommended content
 
