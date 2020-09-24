@@ -15,8 +15,8 @@ If you pass here and you know any resource that could be useful to mind, don't m
 This is a list of the notes I've been taking, it will mainly be reminders & copy pasted content from other learning sources.
 
 - [create-react-app readme](./notes/create-react-app-readme.md)
-- [JSX Notes](./notes/jsx.md)
-- [Props and state](./notes/props-and-state.md)
+- [JSX](./notes/jsx.md)
+- [Props and State](./notes/props-and-state.md)
 - [Rendering and Pure components](./notes/rendering-and-pure-components.md)
 
 ## 📺 Content viewed

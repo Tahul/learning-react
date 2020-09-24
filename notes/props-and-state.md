@@ -1,4 +1,4 @@
-# Props and state
+# Props and State
 
 As any component based frontend framework today, React allows us to nest components inside each others.
 
