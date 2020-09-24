@@ -60,6 +60,8 @@ Here will be logged all the content I already consulted.
 - [hyperscript-helpers - github.com @ ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers)
 - [Recoil - Recoil is an experimental set of utilities for state management with React. - github.com @ facebookexperimental/recoil](https://github.com/facebookexperimental/Recoil)
 - [Setting up your editor - create-react-app.dev](https://create-react-app.dev/docs/setting-up-your-editor/)
+- [React Today and Tomorrow and 90% Cleaner React with Hooks - youtube.com @ React Conf](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [Thinking in React - reactjs.org](https://reactjs.org/docs/thinking-in-react.html)
 
 ## 👁 Recommended content
 
