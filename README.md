@@ -17,6 +17,7 @@ This is a list of the notes I've been taking, it will mainly be reminders & copy
 - [create-react-app readme](./notes/create-react-app-readme.md)
 - [JSX Notes](./notes/jsx.md)
 - [Props and state](./notes/props-and-state.md)
+- [Rendering and Pure components](./notes/rendering-and-pure-components.md)
 
 ## 📺 Content viewed
 
