@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default React.memo(({ category }) => {
+export default ({ category }) => {
   return (
     <tr>
       <td className="text-xl bold" colSpan="2">
@@ -8,4 +8,4 @@ export default React.memo(({ category }) => {
       </td>
     </tr>
   )
-})
+}

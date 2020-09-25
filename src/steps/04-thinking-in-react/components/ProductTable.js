@@ -1,20 +1,24 @@
-import React from 'react'
+import React, { useMemo } from 'react'
 import ProductCategoryRow from './ProductCategoryRow'
 import ProductRow from './ProductRow'
 
 export default ({ products, search, filter }) => {
-  // Filter products w/ search parameters
-  const filteredProducts = products.filter((item) => {
-    if (filter && !item.stocked) {
-      return false
-    }
+  // Filter products w/ search parameters; and keep it memoized
+  const filteredProducts = useMemo(
+    () =>
+      products.filter((item) => {
+        if (filter && !item.stocked) {
+          return false
+        }
 
-    if (search && search !== '') {
-      return item.name.toLowerCase().includes(search.toLowerCase())
-    }
+        if (search && search !== '') {
+          return item.name.toLowerCase().includes(search.toLowerCase())
+        }
 
-    return true
-  })
+        return true
+      }),
+    [products, search, filter],
+  )
 
   // Init rows
   const rows = []
