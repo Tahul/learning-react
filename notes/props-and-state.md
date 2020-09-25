@@ -55,6 +55,9 @@ v-model does not exist in React, making you closer to how your application reall
 ## Quotes
 
 > props (short for “properties”) and state are both plain JavaScript objects.
+
 > props get passed to the component (similar to function parameters) whereas state is managed within the component (similar to variables declared within a function).
+
 > React is all about one-way data flow down the component hierarchy.
+
 > Think of setState() as a request rather than an immediate command to update the component. For better perceived performance, React may delay it, and then update several components in a single pass. React does not guarantee that the state changes are applied immediately.

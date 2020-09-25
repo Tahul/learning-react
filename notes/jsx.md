@@ -126,8 +126,13 @@ The distinction between controlled and [uncontrolled components](https://reactjs
 ## Quotes
 
 > React embraces the fact that rendering logic is inherently coupled with other UI logic: how events are handled, how the state changes over time, and how the data is prepared for display.
+
 > After compilation, JSX expressions become regular JavaScript function calls and evaluate to JavaScript objects.
+
 > By default, React DOM escapes any values embedded in JSX before rendering them. Thus it ensures that you can never inject anything that’s not explicitly written in your application. Everything is converted to a string before being rendered. This helps prevent XSS (cross-site-scripting) attacks.
+
 > Babel compiles JSX down to React.createElement() calls.
+
 > React treats components starting with lowercase letters as DOM tags. For example, `<div />` represents an HTML div tag, but `<Welcome />` represents a component and requires Welcome to be in scope.
+
 > All React components must act like pure functions with respect to their props.
