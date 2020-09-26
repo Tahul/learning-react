@@ -68,6 +68,8 @@ Here will be logged all the content I already consulted.
 - [React Top-Level API - reactjs.org](https://reactjs.org/docs/react-api.html)
 - [Adding TypeScript - create-react-app.dev](https://create-react-app.dev/docs/adding-typescript/)
 - [How to migrate a React App to TypeScript - sitepoint.com](https://www.sitepoint.com/how-to-migrate-a-react-app-to-typescript/)
+- [Refs and the DOM - reactjs.org](https://reactjs.org/docs/refs-and-the-dom.html)
+- [React : Chapitre 11 - Grafikart](https://www.youtube.com/watch?v=QhM0KW2txSc)
 
 ## 👁 Recommended content
 
