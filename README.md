@@ -1,6 +1,6 @@
 # Learning React coming from Vue
 
-Well, as I'm currently (**01/09/2020**) searching for a remote job, I just noticed that most of them are React-based, at least where I live.
+Well, as I'm currently (**26/09/2020**) searching for a remote job, I just noticed that most of them are React-based, at least where I live.
 
 As I already know how this framework works but never digged deep into it, I decided to dedicate my time to learn it for the upcoming weeks.
 
@@ -26,16 +26,16 @@ Here will be logged all the content I already consulted.
 - [Getting Started - reactjs.org](https://reactjs.org/docs/getting-started.html)
 - [Introducing JSX - reactjs.org](https://reactjs.org/docs/introducing-jsx.html)
 - [awesome-cheatsheets (React.js) - LeCoupa](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
-- [React : Chapitre 1 - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
-- [React : Chapitre 2 - Grafikart](https://www.youtube.com/watch?v=V8G0ILBE-Ok)
-- [React : Chapitre 3 - Grafikart](https://www.youtube.com/watch?v=SFFZ0hpIk5Q)
-- [React : Chapitre 4 - Grafikart](https://www.youtube.com/watch?v=dSarn49JYQo)
-- [React : Chapitre 5 - Grafikart](https://www.youtube.com/watch?v=AkEtv7J4kA8)
-- [React : Chapitre 6 - Grafikart](https://www.youtube.com/watch?v=oYuybfkwGx4)
-- [React : Chapitre 7 - Grafikart](https://www.youtube.com/watch?v=m-W1zFR-PVI)
-- [React : Chapitre 8 - Grafikart](https://www.youtube.com/watch?v=O4DEVXdgokY)
-- [React : Chapitre 9 - Grafikart](https://www.youtube.com/watch?v=bapLrqtXEkA)
-- [React : Chapitre 10 - Grafikart](https://www.youtube.com/watch?v=cJ5IUmGGxdY)
+- [React : Chap.1 ~ Introduction - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
+- [React : Chap.2 ~ First steps w/ React - Grafikart](https://www.youtube.com/watch?v=V8G0ILBE-Ok)
+- [React : Chap.3 ~ JSX Syntax - Grafikart](https://www.youtube.com/watch?v=SFFZ0hpIk5Q)
+- [React : Chap.4 ~ Our first component - Grafikart](https://www.youtube.com/watch?v=dSarn49JYQo)
+- [React : Chap.5 ~ Events - Grafikart](https://www.youtube.com/watch?v=AkEtv7J4kA8)
+- [React : Chap.6 ~ Forms - Grafikart](https://www.youtube.com/watch?v=oYuybfkwGx4)
+- [React : Chap.7 ~ Celsius / Fahrenheit workshop - Grafikart](https://www.youtube.com/watch?v=m-W1zFR-PVI)
+- [React : Chap.8 ~ Composition - Grafikart](https://www.youtube.com/watch?v=O4DEVXdgokY)
+- [React : Chap.9 ~ Thinking in React workshop - Grafikart](https://www.youtube.com/watch?v=bapLrqtXEkA)
+- [React : Chap.10 ~ Pure components - Grafikart](https://www.youtube.com/watch?v=cJ5IUmGGxdY)
 - [Error boundaries - reactjs.org](https://reactjs.org/docs/error-boundaries.html)
 - [React without ES6 - reactjs.org](https://reactjs.org/docs/react-without-es6.html)
 - [Testing Library - testing-library.com](https://testing-library.com/docs/react-testing-library)
@@ -69,7 +69,12 @@ Here will be logged all the content I already consulted.
 - [Adding TypeScript - create-react-app.dev](https://create-react-app.dev/docs/adding-typescript/)
 - [How to migrate a React App to TypeScript - sitepoint.com](https://www.sitepoint.com/how-to-migrate-a-react-app-to-typescript/)
 - [Refs and the DOM - reactjs.org](https://reactjs.org/docs/refs-and-the-dom.html)
-- [React : Chapitre 11 - Grafikart](https://www.youtube.com/watch?v=QhM0KW2txSc)
+- [React : Chap.11 ~ Refs and DOM - Grafikart](https://www.youtube.com/watch?v=QhM0KW2txSc)
+- [React : Chap.12 ~ React Dev Tools - Grafikart](https://www.youtube.com/watch?v=SuWfqA1VaXM)
+- [React : Chap.13 ~ Create React App - Grafikart](https://www.youtube.com/watch?v=kx_hJExdqzw)
+- [React : Chap.14 ~ React with Parcel - Grafikart](https://www.youtube.com/watch?v=stN8pf-23Wo)
+- [React : Chap.15 ~ useState hook - Grafikart](https://www.youtube.com/watch?v=t6IAQn4d5mU)
+- [React : Chap.16 ~ useEffect hook - Grafikart](https://www.youtube.com/watch?v=OC9swIBpD_U)
 
 ## 👁 Recommended content
 
