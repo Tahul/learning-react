@@ -1,5 +1,7 @@
-/* eslint no-unused-vars: 0 */
 /* To avoid linter errors; we keep track of all steps as unused vars here. */
+/* eslint no-unused-vars: 0 */
+/* eslint @typescript-eslint/no-unused-vars: 0 */
+// @ts-nocheck
 
 // Core imports:
 import React from 'react'
@@ -13,7 +15,7 @@ import Composition from './steps/03-composition' // Step 03 - Composition w/ Rea
 import ThinkingInReact from './steps/04-thinking-in-react' // Step 04 - Thinking in React
 
 // Main app display
-function App() {
+const App = () => {
   return (
     <div className="App">
       {/* Current step: Thinking In React */}

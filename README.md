@@ -66,6 +66,8 @@ Here will be logged all the content I already consulted.
 - [Thinking in React - reactjs.org](https://reactjs.org/docs/thinking-in-react.html)
 - [Redux Data Flow - redux.js.org](https://redux.js.org/basics/data-flow)
 - [React Top-Level API - reactjs.org](https://reactjs.org/docs/react-api.html)
+- [Adding TypeScript - create-react-app.dev](https://create-react-app.dev/docs/adding-typescript/)
+- [How to migrate a React App to TypeScript - sitepoint.com](https://www.sitepoint.com/how-to-migrate-a-react-app-to-typescript/)
 
 ## 👁 Recommended content
 
