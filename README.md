@@ -25,7 +25,7 @@ Here will be logged all the content I already consulted.
 
 - [Getting Started - reactjs.org](https://reactjs.org/docs/getting-started.html)
 - [Introducing JSX - reactjs.org](https://reactjs.org/docs/introducing-jsx.html)
-- [awesome-cheatsheets (React.js) - LeCoupa](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
+- [LeCoupa/awesome-cheatsheets/frontend/React.js - github.com](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
 - [React : Chap.1 ~ Introduction - Grafikart](https://www.youtube.com/watch?v=SMgQlTSoXf0)
 - [React : Chap.2 ~ First steps w/ React - Grafikart](https://www.youtube.com/watch?v=V8G0ILBE-Ok)
 - [React : Chap.3 ~ JSX Syntax - Grafikart](https://www.youtube.com/watch?v=SFFZ0hpIk5Q)
@@ -53,13 +53,13 @@ Here will be logged all the content I already consulted.
 - [Get Started - react-hook-form.com](https://react-hook-form.com/get-started)
 - [Examples - react-hook-form.com](https://github.com/react-hook-form/react-hook-form/tree/master/examples)
 - [Lifting State Up - reactjs.org](https://reactjs.org/docs/lifting-state-up.html)
-- [Whats the reason to always use .jsx instead of .js - github.com @ airbnb/javascript](https://github.com/airbnb/javascript/issues/1235)
+- [Whats the reason to always use .jsx instead of .js - github.com](https://github.com/airbnb/javascript/issues/1235)
 - [Difference between .js and .jsx files in React? - Joseph Khan](https://josephkhan.me/difference-between-js-and-jsx-files-react)
 - [Tailwind + create-react-app - Dave Ceddia](https://daveceddia.com/tailwind-create-react-app)
 - [Setting up Tailwind with create-react-app - Hagnerd](https://dev.to/hagnerd/setting-up-tailwind-with-create-react-app-4jd)
-- [Zustand - A small, fast and scaleable bearbones state-management solution - github.com @ react-spring/zustand](https://github.com/react-spring/zustand)
-- [hyperscript - Create HyperText with JavaScript, on client or server. - github.com @ hyperhype/hyperscript](https://github.com/hyperhype/hyperscript)
-- [hyperscript-helpers - github.com @ ohanhi/hyperscript-helpers](https://github.com/ohanhi/hyperscript-helpers)
+- [react-spring/zustand - A small, fast and scaleable bearbones state-management solution - github.com](https://github.com/react-spring/zustand)
+- [hyperhype/hyperscript - Create HyperText with JavaScript, on client or server. - github.com](https://github.com/hyperhype/hyperscript)
+- [ohanhi/hyperscript-helpers - github.com](https://github.com/ohanhi/hyperscript-helpers)
 - [Recoil - Recoil is an experimental set of utilities for state management with React. - github.com @ facebookexperimental/recoil](https://github.com/facebookexperimental/Recoil)
 - [Setting up your editor - create-react-app.dev](https://create-react-app.dev/docs/setting-up-your-editor/)
 - [React Today and Tomorrow and 90% Cleaner React with Hooks - youtube.com @ React Conf](https://www.youtube.com/watch?v=dpw9EHDh2bM)
@@ -75,6 +75,21 @@ Here will be logged all the content I already consulted.
 - [React : Chap.14 ~ React with Parcel - Grafikart](https://www.youtube.com/watch?v=stN8pf-23Wo)
 - [React : Chap.15 ~ useState hook - Grafikart](https://www.youtube.com/watch?v=t6IAQn4d5mU)
 - [React : Chap.16 ~ useEffect hook - Grafikart](https://www.youtube.com/watch?v=OC9swIBpD_U)
+- [TypeScript and React: Getting Started - fettblog.eu](https://fettblog.eu/typescript-react/getting-started)
+- [TypeScript and React: Components - fettblog.eu](https://fettblog.eu/typescript-react/components)
+- [Microsoft/TypeScript-React-Starter - github.com](https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter)
+- [TypeScript and React: Children - fettblog.eu](https://fettblog.eu/typescript-react/children)
+- [TypeScript and React: Events - fettblog.eu](https://fettblog.eu/typescript-react/events)
+- [TypeScript and React: Prop Types - fettblog.eu](https://fettblog.eu/typescript-react/prop-types)
+- [Typechecking With PropTypes - reactjs.org](https://reactjs.org/docs/typechecking-with-proptypes.html)
+- [TypeScript and React: Hooks - fettblog.eu](https://fettblog.eu/typescript-react/hooks)
+- [Render props - reactjs.org](https://reactjs.org/docs/render-props.html)
+- [TypeScript and React: Render props and child render props](https://fettblog.eu/typescript-react/render-props)
+- [Context - reactjs.org](https://reactjs.org/docs/context.html)
+- [TypeScript and React: Context](https://fettblog.eu/typescript-react/context)
+- [TypeScript and React: Styles and CSS](https://fettblog.eu/typescript-react/styles)
+- [Emotion.sh: Introduction - emotion.sh](https://emotion.sh/docs/introduction)
+- [typescript-cheatsheets/react - github.com](https://github.com/typescript-cheatsheets/react)
 
 ## 👁 Recommended content
 
@@ -86,6 +101,7 @@ I cannot take a look to everything at once, so I will be logging this content he
 - [AHA Programming - Kent C. Dodds](https://kentcdodds.com/blog/aha-programming)
 - [Taming Forms in React - Jared Palmer](https://www.youtube.com/watch?v=oiNtnehlaTo)
 - [Rethinking Design Practices — Mark Dalgleish](https://www.youtube.com/watch?v=xxbc3wAztl0)
+- [Building Scalable, Maintainable Apps Using React and TypeScript (MidwestJS 2017) - Kamran Ayub](https://www.youtube.com/watch?v=owcuEwn-pSM)
 
 ## 🗣 Disclaimer
 
