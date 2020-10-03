@@ -90,6 +90,7 @@ Here will be logged all the content I already consulted.
 - [TypeScript and React: Styles and CSS](https://fettblog.eu/typescript-react/styles)
 - [Emotion.sh: Introduction - emotion.sh](https://emotion.sh/docs/introduction)
 - [typescript-cheatsheets/react - github.com](https://github.com/typescript-cheatsheets/react)
+- [Snowpack - snowpack.dev](https://www.snowpack.dev)
 
 ## 👁 Recommended content
 
