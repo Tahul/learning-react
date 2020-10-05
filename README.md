@@ -91,6 +91,9 @@ Here will be logged all the content I already consulted.
 - [Emotion.sh: Introduction - emotion.sh](https://emotion.sh/docs/introduction)
 - [typescript-cheatsheets/react - github.com](https://github.com/typescript-cheatsheets/react)
 - [Snowpack - snowpack.dev](https://www.snowpack.dev)
+- [How to use React Context effectively - kentcdodds.com](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+- [react-final-form](https://final-form.org/react)
+- [react-final-form: Record-Level Validation](https://final-form.org/docs/react-final-form/examples/record-level-validation)
 
 ## 👁 Recommended content
 
