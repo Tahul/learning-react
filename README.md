@@ -97,6 +97,7 @@ Here will be logged all the content I already consulted.
 - [Form validation with React Final Form and Fonk - basefactor.com](https://www.basefactor.com/react-final-form-validation-fonk)
 - [Authentication in React Applications - Kent C. Dodds](https://kentcdodds.com/blog/authentication-in-react-applications)
 - [Private Route, Public Route and Restricted Route with React Router - Binh Tran](https://medium.com/@thanhbinh.tran93/private-route-public-route-and-restricted-route-with-react-router-d50b27c15f5e)
+- [ctrlplusb/easy-peasy - Vegetarian friendly state for React - github.com](https://github.com/ctrlplusb/easy-peasy)
 
 ## 👁 Recommended content
 
