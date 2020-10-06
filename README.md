@@ -95,6 +95,8 @@ Here will be logged all the content I already consulted.
 - [react-final-form - final-form.org](https://final-form.org/react)
 - [react-final-form: Record-Level Validation](https://final-form.org/docs/react-final-form/examples/record-level-validation)
 - [Form validation with React Final Form and Fonk - basefactor.com](https://www.basefactor.com/react-final-form-validation-fonk)
+- [Authentication in React Applications - Kent C. Dodds](https://kentcdodds.com/blog/authentication-in-react-applications)
+- [Private Route, Public Route and Restricted Route with React Router - Binh Tran](https://medium.com/@thanhbinh.tran93/private-route-public-route-and-restricted-route-with-react-router-d50b27c15f5e)
 
 ## 👁 Recommended content
 
