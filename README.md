@@ -98,6 +98,8 @@ Here will be logged all the content I already consulted.
 - [Authentication in React Applications - Kent C. Dodds](https://kentcdodds.com/blog/authentication-in-react-applications)
 - [Private Route, Public Route and Restricted Route with React Router - Binh Tran](https://medium.com/@thanhbinh.tran93/private-route-public-route-and-restricted-route-with-react-router-d50b27c15f5e)
 - [ctrlplusb/easy-peasy - Vegetarian friendly state for React - github.com](https://github.com/ctrlplusb/easy-peasy)
+- [Using Sanctum to authenticate a React SPA - laravel-news.com](https://laravel-news.com/using-sanctum-to-authenticate-a-react-spaa)
+- [Common mistakes with React Testing Library - Kent C. Dodds](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
 
 ## 👁 Recommended content
 
