@@ -100,6 +100,7 @@ Here will be logged all the content I already consulted.
 - [ctrlplusb/easy-peasy - Vegetarian friendly state for React - github.com](https://github.com/ctrlplusb/easy-peasy)
 - [Using Sanctum to authenticate a React SPA - laravel-news.com](https://laravel-news.com/using-sanctum-to-authenticate-a-react-spaa)
 - [Common mistakes with React Testing Library - Kent C. Dodds](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)
+- [How to test react-router redirection with testing-library](https://dev.to/iwazaru/how-to-test-react-router-redirection-with-testing-library-3i36)
 
 ## 👁 Recommended content
 
